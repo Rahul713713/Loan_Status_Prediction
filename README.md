@@ -14,7 +14,7 @@ The data that I have contains information about applicants and their Gender,Educ
 - Packages: pandas, numpy, matplotlib, seaborn, scikit-learn
 
 # Data Cleaning and Preprocessing
-## After reading the data, I needed to clean it up so that it was usable for our data analysis. I made the following changes and created the following variables:
+## After reading the data, I needed to clean it up so that it would be fit for our data analysis. I made the following changes and created the following variables:
 - Checked whether we have missing data for various cloumns.
 - Some columns had missing values. So, I replaced them accordingly with the median value of the column for the numerical columns. For categorical columns, I replaced the missing values with the most repeating values with respect to the output class. 
 - Performed Data Standardisation to get the data on the same scale with the mean of 0 and standard deviation of 1.
