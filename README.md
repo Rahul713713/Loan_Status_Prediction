@@ -1,10 +1,9 @@
 # Loan_Status_Prediction : Project Overview
 ![loan_status](https://github.com/Rahul713713/Loan_Status_Prediction/blob/main/loan_status.jpeg "Loan Status Prediction")
 - Created multiple charts,graphs,countplots,etc. in order to understand how to minimise the risk of losing money while lending to customers.
-- Worked on a dataset consisting of 39717 rows of data for 111 different features.
+- Worked on a dataset consisting of 614 rows of data for 12 different features.
 - Performed univariate analysis as well as multivariate analysis on various features to understand the importance of every feature.
-- Used EDA to understand how consumer attributes and loan attributes influence the tendency of default rate.Thus,helped the company in understanding the driving factors (or
-driver variables) behind loan default, i.e. the variables which are strong indicators of default.
+- Used EDA to understand how consumer attributes and different features help us in identifying customers who are eligible for a loan from customers who are not.
 
 # Problem Statement
 Predicting whether an applicant is eligible for the loan that he/she has applied for based on multiple independent variables and Machine Learning. This will help the company in automating the process of checking the eligibility of the applicant for the loan.Now,when a customer applies for a loan, the company has to make a decision whether to approve the loan or not based on the applicant's profile. 
