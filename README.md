@@ -1,4 +1,5 @@
 # Loan_Status_Prediction : Project Overview
+![loan_status](https://github.com/Rahul713713/Loan_Status_Prediction/blob/main/loan_status.jpeg "Loan Status Prediction")
 - Created multiple charts,graphs,countplots,etc. in order to understand how to minimise the risk of losing money while lending to customers.
 - Worked on a dataset consisting of 39717 rows of data for 111 different features.
 - Performed univariate analysis as well as multivariate analysis on various features to understand the importance of every feature.
@@ -37,10 +38,9 @@ The data that I have contains information about applicants and their Gender,Educ
 # EDA
 After cleaning the data,I started with EDA. These are some of the outcomes of EDA 
 
-![loan_status vs term](https://github.com/Rahul713713/Loan-Analysis/blob/master/term.png "loan_status vs term")
-![loan_status vs term](https://github.com/Rahul713713/Loan-Analysis/blob/master/purpose.png "loan_status vs purpose")
-![loan_status vs term](https://github.com/Rahul713713/Loan-Analysis/blob/master/verification_status.png "loan_status vs verification_status")
-![loan_status vs term](https://github.com/Rahul713713/Loan-Analysis/blob/master/int_rate.png "loan_status vs int_rate")
+![loan_status](https://github.com/Rahul713713/Loan_Status_Prediction/blob/main/loan_eligibilty_based_on_credit_history.png "loan_eligibilty_based_on_credit_history")
+![loan_status](https://github.com/Rahul713713/Loan_Status_Prediction/blob/main/loan_eligibilty_based_on_education.png "loan_eligibilty_based_on_education")
+![loan_status](https://github.com/Rahul713713/Loan_Status_Prediction/blob/main/most_important_features.png "most_important_features")
 
 # Machine Learning Models
 - The Machine Learning Models that I've used are as follow:
