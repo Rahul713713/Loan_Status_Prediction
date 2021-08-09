@@ -1,4 +1,4 @@
-# Loan_Status_Prediction : Project Overview
+# Loan Status Prediction : Project Overview
 ![loan_status](https://github.com/Rahul713713/Loan_Status_Prediction/blob/main/loan_status.jpeg "Loan Status Prediction")
 - Created multiple charts,graphs,countplots,etc. in order to understand how to minimise the risk of losing money while lending to customers.
 - Worked on a dataset consisting of 614 rows of data for 12 different features.
